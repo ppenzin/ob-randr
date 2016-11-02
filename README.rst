@@ -7,6 +7,12 @@ easy access to xrandr information and actions.
 
 .. image:: https://github.com/whiteinge/ob-randr/raw/master/ob-randr.png
 
+Prerequisites
+=============
+
+1. Python 2
+2. XRandR
+
 Installation Instructions
 =========================
 
